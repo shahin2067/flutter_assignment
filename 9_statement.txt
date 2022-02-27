@@ -13,7 +13,7 @@ Example- list = [1, 2, 3, 4, 5], here list[0] refer to element or value 1 in thi
 Why use add and addAll method in a list:
 add method used for adding another element in existing list.
 Example- list = [23, 24, 25], now adding for another value or element in this list we can be use add method like this, list.add[26].
-         Now list will be list = [23, 24, 25, 26]
+         Now list will be [23, 24, 25, 26]
 
 addAll method used for adding another list existing list.
 Example- list1 = [2, 3, 4] and list2 = [5, 6, 7]
